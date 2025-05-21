@@ -59,6 +59,12 @@ The `README.md` file within *each individual project directory* should follow th
 **Use Case**​
 [[Describe what this prompt/tool is for and the specific leadership challenge or task it helps address. For instance, "This prompt helps generate a starting draft for performance review feedback based on key achievements and areas for development."]]
 
+**LLMs Used**​
+[[List the Large Language Model(s) you've tested this prompt/tool with (e.g., GPT-4o, Claude 3, Gemini, etc.). This helps others know what to expect.]]
+
+**Author**​
+[[your-git-username]]
+
 **Prompt(s)**​
 [[Paste your complete prompt(s) here. If there are multiple prompts or a sequence, explain how they work together. Ensure they are formatted clearly, perhaps using Markdown code blocks.]]
 
@@ -66,11 +72,8 @@ The `README.md` file within *each individual project directory* should follow th
 *(If your project includes more than just prompts, e.g., scripts or configuration files, you can add a section here to describe those files and how to use them.)*
 ---
 
-**LLMs Used**​
-[[List the Large Language Model(s) you've tested this prompt/tool with (e.g., GPT-4o, Claude 3, Gemini, etc.). This helps others know what to expect.]]
-
 **Sample Reply**​
 [[Optional but highly recommended: Include a sample reply from the LLM when using your prompt. This is very helpful for users to understand the expected output and quality. Use Markdown formatting for readability.]]
 
-**Author**​
-[[your-git-username]]
+**Setup**  
+[[Describe necesaary setup steps]]

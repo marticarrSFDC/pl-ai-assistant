@@ -1,11 +1,7 @@
 # People Leader Companion: Quarterly Check-in System
 
 **Use Case**  
-This system is designed for Technical Managers at Salesforce Professional Services to generate tailored quarterly check-in templates for their team of Technical Consultants:
-
-- **Grade 4** – Associate Technical Consultant  
-- **Grade 5** – Technical Consultant  
-- **Grade 6** – Senior Technical Consultant  
+This system is designed for Technical Managers at Salesforce Professional Services to generate tailored quarterly check-in templates for their team of Technical Consultants. 
 
 It addresses the need for a consistent yet adaptable framework for conducting quarterly discussions, covering:
 
